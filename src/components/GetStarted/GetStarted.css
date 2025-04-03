@@ -1,0 +1,22 @@
+.get-started {
+  gap: 1.5rem;
+  background: #212ea0;
+  padding: 2rem;
+  /* border-radius: 10px; */
+  /* border: 6px solid #5d77d6; */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  padding: 2rem;
+}
+.get-started h3 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 2rem;
+}
+.get-started p {
+  margin: 1.5rem;
+}
